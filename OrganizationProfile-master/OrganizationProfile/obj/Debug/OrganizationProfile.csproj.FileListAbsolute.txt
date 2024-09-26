@@ -1,0 +1,11 @@
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\bin\Debug\OrganizationProfile.exe.config
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\bin\Debug\OrganizationProfile.exe
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\bin\Debug\OrganizationProfile.pdb
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.AssemblyReference.cache
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.frmConfirmation.resources
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.frmRegistration.resources
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.Properties.Resources.resources
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.exe
+C:\Users\ameer\OneDrive\Desktop\OrganizationProfile-master\OrganizationProfile\obj\Debug\OrganizationProfile.pdb
